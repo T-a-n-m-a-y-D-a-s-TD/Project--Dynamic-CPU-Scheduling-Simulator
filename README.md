@@ -6,9 +6,9 @@ This project is a Dynamic CPU Scheduling Simulator built with Python and Streaml
 # Project Overview
 This simulator helps analyze how different scheduling algorithms impact CPU performance metrics, such as:
 
--Average Waiting Time
--Turnaround Time
--CPU Utilization
+- Average Waiting Time
+- Turnaround Time
+- CPU Utilization
 The interactive interface, built using Streamlit, also provides a comparative analysis report based on these metrics.
 
 # Features
@@ -21,5 +21,5 @@ Gantt Chart Visualization: Visualize the scheduling order and execution time of 
 Comparative Analysis Report: Compare performance metrics like average waiting time and turnaround time for each algorithm.
 
 # Technologies Used
--Programming Language: Python
--Libraries: Streamlit for the interactive web app, Matplotlib for Gantt chart visualization, and Pandas for data handling.
+- Programming Language: Python
+- Libraries: Streamlit for the interactive web app, Matplotlib for Gantt chart visualization, and Pandas for data handling.
