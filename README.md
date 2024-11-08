@@ -15,7 +15,7 @@ The interactive interface, built using Streamlit, also provides a comparative an
 
 
 # Features
-Input Interface: Input process details including Process ID, Arrival Time, Burst Time, and Priority.
+* Input Interface: Input process details including Process ID, Arrival Time, Burst Time, and Priority.
 
 Algorithms Supported:
 - FCFS (First Come First Served)
