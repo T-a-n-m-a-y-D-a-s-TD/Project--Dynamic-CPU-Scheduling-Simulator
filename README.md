@@ -34,9 +34,7 @@ The interactive interface, built using Streamlit, also provides a comparative an
 
 
 # Requirements:
-   - pip install streamlit 
-   - pip install pandas
-   - pip install matplotlib
+   - pip install streamlit pandas matplotlib
 
 
 # 
