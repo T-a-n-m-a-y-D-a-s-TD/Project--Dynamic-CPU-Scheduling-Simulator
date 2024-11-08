@@ -7,9 +7,9 @@ This project is a Dynamic CPU Scheduling Simulator built with Python and Streaml
 # Project Overview
 This simulator helps analyze how different scheduling algorithms impact CPU performance metrics, such as:
 
-- Average Waiting Time
-- Turnaround Time
-- CPU Utilization
+   - Average Waiting Time
+   - Turnaround Time
+   - CPU Utilization
 
 The interactive interface, built using Streamlit, also provides a comparative analysis report based on these metrics.
 
@@ -18,9 +18,9 @@ The interactive interface, built using Streamlit, also provides a comparative an
 * Input Interface: Input process details including Process ID, Arrival Time, Burst Time, and Priority.
 
 * Algorithms Supported:
-- FCFS (First Come First Served)
-- SJF (Shortest Job First)
-- Priority Scheduling
+    - FCFS (First Come First Served)
+    - SJF (Shortest Job First)
+    - Priority Scheduling
 
 * Gantt Chart Visualization: Visualize the scheduling order and execution time of each process.
 
