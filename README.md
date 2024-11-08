@@ -17,14 +17,14 @@ The interactive interface, built using Streamlit, also provides a comparative an
 # Features
 * Input Interface: Input process details including Process ID, Arrival Time, Burst Time, and Priority.
 
-Algorithms Supported:
+* Algorithms Supported:
 - FCFS (First Come First Served)
 - SJF (Shortest Job First)
 - Priority Scheduling
 
-Gantt Chart Visualization: Visualize the scheduling order and execution time of each process.
+* Gantt Chart Visualization: Visualize the scheduling order and execution time of each process.
 
-Comparative Analysis Report: Compare performance metrics like average waiting time and turnaround time for each algorithm.
+* Comparative Analysis Report: Compare performance metrics like average waiting time and turnaround time for each algorithm.
 
 
 # Technologies Used
