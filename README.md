@@ -27,6 +27,12 @@ The interactive interface, built using Streamlit, also provides a comparative an
 * Comparative Analysis Report: Compare performance metrics like average waiting time and turnaround time for each algorithm.
 
 
+# Technologies Used
+- Programming Language: Python
+- Libraries: Streamlit for the interactive web app, Matplotlib for Gantt chart visualization, and Pandas for data handling.
+
+
+
 # Requirements:
    - pip install streamlit 
    - pip install pandas
@@ -34,7 +40,3 @@ The interactive interface, built using Streamlit, also provides a comparative an
 
 
 # 
-
-# Technologies Used
-- Programming Language: Python
-- Libraries: Streamlit for the interactive web app, Matplotlib for Gantt chart visualization, and Pandas for data handling.
