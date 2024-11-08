@@ -9,6 +9,7 @@ This simulator helps analyze how different scheduling algorithms impact CPU perf
 - Average Waiting Time
 - Turnaround Time
 - CPU Utilization
+
 The interactive interface, built using Streamlit, also provides a comparative analysis report based on these metrics.
 
 # Features
