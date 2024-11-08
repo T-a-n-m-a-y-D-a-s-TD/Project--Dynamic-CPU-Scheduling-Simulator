@@ -1,7 +1,7 @@
-# Operating Systems
+# Operating Systems (OS)
 
 # Dynamic CPU Scheduling Simulator
-This project is a Dynamic CPU Scheduling Simulator built with Python and Streamlit. It demonstrates and compares the performance of three CPU scheduling algorithms: FCFS (First-Come, First-Served), SJF (Shortest Job First), and Priority Scheduling. The simulator allows users to input a list of processes with details like arrival time, burst time, and priority, and visualize the execution of each algorithm using a Gantt chart.
+This project is a Dynamic CPU Scheduling Simulator built with Python and Streamlit. It demonstrates and compares the performance of three CPU scheduling algorithms: FCFS (First Come First Served), SJF (Shortest Job First), and Priority Scheduling. The simulator allows users to input a list of processes with details like arrival time, burst time, and priority, and visualize the execution of each algorithm using a Gantt chart.
 
 
 # Project Overview
