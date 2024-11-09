@@ -28,8 +28,12 @@ The interactive interface, built using Streamlit, also provides a comparative an
 
 
 # Technologies Used
-- Programming Language: Python
-- Libraries: Streamlit for the interactive web app, Matplotlib for Gantt chart visualization, and Pandas for data handling.
+- Programming Language:
+    - Python: Core programming language for logic and implementation
+- Libraries:
+    - Streamlit: To build the interactive web application
+    - Matplotlib: For creating Gantt charts
+    - Pandas: For data handling and analysis
 
 
 
@@ -37,7 +41,7 @@ The interactive interface, built using Streamlit, also provides a comparative an
    - pip install streamlit pandas matplotlib
 
 * Additional Troubleshooting:
-Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
+  Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
    - python -m streamlit run DCSS.py
 
 
