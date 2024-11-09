@@ -36,6 +36,11 @@ The interactive interface, built using Streamlit, also provides a comparative an
     - Pandas: For data handling and analysis
 
 
+# Benefits
+This tool helps users understand how different scheduling methods impact CPU performance. 
+By using it, you can see which algorithm performs better for different process inputs and understand their efficiency.
+
+
 
 # Requirements:
    - pip install streamlit pandas matplotlib
