@@ -40,8 +40,7 @@ The interactive interface, built using Streamlit, also provides a comparative an
 # Requirements:
    - pip install streamlit pandas matplotlib
 
-* Additional Troubleshooting:
-  Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
+* Additional Troubleshooting: Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
    - python -m streamlit run DCSS.py
 
 
