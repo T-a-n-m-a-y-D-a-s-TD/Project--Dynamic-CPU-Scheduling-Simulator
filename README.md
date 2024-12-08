@@ -52,7 +52,7 @@ By using it, you can see which algorithm performs better for different process i
 
 * Additional Troubleshooting: Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
    - python -m streamlit run DCSS.py
-   - python -m streamlit run PCU_DCSS.py
+   - python -m streamlit run CPU_DCSS.py
 
 
 
