@@ -46,6 +46,10 @@ By using it, you can see which algorithm performs better for different process i
    - pip install streamlit pandas matplotlib (DCSS.py)
    - pip install matplotlib (CPU_DCSS.py)
 
+* in terminal window:
+   - streamlit run DCSS.py
+   - streamlit run CPU_DCSS.py
+
 * Additional Troubleshooting: Run Streamlit with Python explicitly: If the above steps don’t work, try running Streamlit by calling Python directly:
    - python -m streamlit run DCSS.py
    - python -m streamlit run PCU_DCSS.py
